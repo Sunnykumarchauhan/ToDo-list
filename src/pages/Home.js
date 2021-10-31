@@ -79,7 +79,7 @@ const Home = ()=>{
                 <div className="w-full lg:w-1/2 h-full flex flex-col items-center mt-16 lg:border-2 lg:border-green-500 py-2 px-0 lg:px-4 rounded-lg">
                     <div className="bg-white w-full flex">
                     <input className="outline-none h-full flex-1 bg-transparent px-4 lg:text-lg py-2" 
-                    placeholder="✏ Enter the task.."
+                    placeholder="✍ Enter the task.."
                     maxLength='25'
                     value={input}
                     onChange={(event)=> setInput(event.target.value)}
