@@ -71,7 +71,7 @@ const Home = ()=>{
            <nav className="w-11/12 lg:w-10/12 mx-auto py-2">
                <div className="flex justify-between items-center">
                 <h1 className="text-white text-2xl font-semibold">My ToDo 📝</h1>
-                <button className="text-white font-semibold bg-green-500 py-2 px-4 rounded-xl hover:bg-green-400">About me 😎</button>
+                <a href="https://www.instagram.com/sunny674195/"><button className="text-white font-semibold bg-green-500 py-2 px-4 rounded-xl hover:bg-green-400">About me 😎</button></a>
                </div>
             </nav>
 
